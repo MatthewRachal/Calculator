@@ -1,0 +1,181 @@
+.greyButton {
+    width: 25%;
+    border-radius: 50%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: #8e8e8e;
+    color: black;
+    font-size: 2.25em;
+  
+}
+.greyButton:hover {
+    cursor: pointer;
+}
+.greyButton:focus {
+    outline: none;
+}
+
+
+.greyButtonFlash {
+    width: 25%;
+    border-radius: 50%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: white;
+    color: black;
+    font-size: 2.25em;
+}
+.greyButtonFlash:hover {
+    cursor: pointer;
+}
+.greyButtonFlash:focus {
+    outline: none;
+}
+
+.blackButton {
+    width: 25%;
+    border-radius: 50%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: #212121;
+    color: white;
+    font-size: 2.25em;
+}
+.blackButton:focus {
+    outline: none;
+}
+.blackButton:hover {
+    cursor: pointer;
+}
+
+.orangeButton {
+    width: 25%;
+    border-radius: 50%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: #f57c00;
+    color: white;
+    font-size: 2.25em;
+}
+
+.orangeButton:focus {
+    outline: none;
+}
+.orangeButton:hover {
+    cursor: pointer;
+}
+
+.highlightOrangeButton {
+    width: 25%;
+    border-radius: 50%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: white;
+    color: #f57c00;
+    font-size: 2.25em;
+}
+
+.highlightOrangeButton:focus {
+    outline: none;
+}
+.highlightOrangeButton:hover {
+    cursor: pointer;
+}
+
+.zeroButton {
+    width: 50%;
+    border-radius: 25%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: #212121;
+    color: white;
+    font-size: 2.25em;
+}
+
+.zeroButton:focus {
+    outline: none;
+}
+.zeroButton:hover {
+    cursor: pointer;
+}
+
+.zeroButtonFlash {
+    width: 50%;
+    border-radius: 25%;
+    border-color: black;
+    height: 110px;
+    min-height: 110px;
+    background-color: #8e8e8e;
+    color: black;
+    font-size: 2.25em;
+}
+
+.zeroButtonFlash:focus {
+    outline: none;
+}
+.zeroButtonFlash:hover {
+    cursor: pointer;
+}
+
+.calculatorEntry {
+    background-color: black;
+    width: 100%;
+    height: 100px;   
+    color: white;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0em;
+    text-align: right;
+}
+
+.calculatorContainer {
+    background-color: #000000;
+    min-width: 320px;
+    width: 100%;
+    height: 100%;
+    padding: 0em;
+    margin: 0em;
+
+}
+
+@media only screen and (min-width: 440px)
+{
+    .calculatorContainer {
+        margin-left: 8%;
+        margin-top: 4em;
+        width: 440px;
+    }
+}
+
+@media only screen and (min-width: 700px)
+{
+    .calculatorContainer {
+        margin-left: 20%;
+        margin-top: 4em;
+        width: 440px;
+    }
+}
+
+@media only screen and (min-width: 800px)
+{
+    .calculatorContainer {
+        margin-left: 30%;
+        margin-top: 4em;
+    }
+}
+
+@media only screen and (min-width: 1200px)
+{
+    .calculatorContainer {
+        margin-left: 30%;
+        margin-top: 4em;
+        width: 440px;
+    }
+}
+   

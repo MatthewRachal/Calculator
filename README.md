@@ -2,6 +2,9 @@
 
 This project is a part of my porfolio for teaching myself programming. Created a Calculator App in React. Overall, the application mimics the features found in a Apple iPhone calculator application.
 
+![alt text](https://github.com/MatthewRachal/Calculator/calculatorProject.JPG?raw=true)
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
